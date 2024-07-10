@@ -9,5 +9,5 @@ number2 = float(input("Digite um número decimal: "))
 #Receba a palavra
 palavra = input("Digite uma palavra: ")
 
-
+#Mostrar as informações digitadas e seus tipos.
 print(f"Foi digitado: {number1} = {type(number1)}, {number2} = {type(number2)}, {palavra} = {type(palavra)}")
