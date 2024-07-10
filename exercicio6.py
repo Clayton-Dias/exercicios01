@@ -13,8 +13,9 @@ num2 = float(input("Digite 2º número: "))
 #Receba o terceiro número
 num3 = float(input("Digite 3º número: "))
 
+#Cálculo da média do números digitados
 #media = (num1 + num2 + num3) / 3
 
-#Mostrar a média dos números digitados.
+#Mostra a média dos números digitados.
 #print(f"A média dos números digitados é {media}")
 print(f"A média dos números digitados é {((num1+num2+num3)/3):.2f}")
